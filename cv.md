@@ -7,10 +7,12 @@
 I’m currently working several small projects. My goal is to learn everything new and exciting. I love to code and coffee.
 ##Skills
     *HTML
-    *Pythin(Basic)
+    *Python(Basic)
     *MySQL
     *MSSQL
-    *Windows OS, Linux(ubuntu, CentOS)
+    *Windows OS, Linux(Ubuntu, CentOS)
+    *ESXI
+    *VoIP
 ##Education
     *Ukrainian Engineering Pedagogical Academy
         *Program Subject Area : Vocational education. Machine-building
